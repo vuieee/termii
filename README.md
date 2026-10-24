@@ -1,51 +1,51 @@
 <div align="center">
 
-  # TERMII 
-  
-  **STYLIZED // TERMINAL // WEBCORE // ANIME AESTHETIC**
+# Termii
 
-  <img src="assets/images/termiimainsection.png" width="100%" alt="Termii Header" />
+A terminal-styled personal website with an anime and CRT aesthetic.
 
-  [![Status](https://img.shields.io/website?label=SYSTEM&style=for-the-badge&url=https%3A%2F%2Fvuieee.github.io%2FTermii%2F)](https://vuieee.github.io/Termii/)
-  [![License](https://img.shields.io/badge/LICENSE-MIT-50fff7?style=for-the-badge&labelColor=000000)](LICENSE)
-  [![Vibe](https://img.shields.io/badge/VIBE-WIRED-00ff41?style=for-the-badge&labelColor=000000)](https://vuieee.github.io/Termii/)
+<img src="assets/images/termiimainsection.png" width="100%" alt="Termii main section" />
 
-  [ **ENTER TERMII** ](https://vuieee.github.io/termii/)
+[![Status](https://img.shields.io/website?label=Site&url=https%3A%2F%2Fvuieee.github.io%2FTermii%2F)](https://vuieee.github.io/Termii/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+
+[Live demo](https://vuieee.github.io/Termii/)
 
 </div>
 
----
+## About
 
-### SYSTEM_OVERVIEW
-> "If you're not remembered, then you never existed."
+Termii is a static website built with plain HTML, CSS, and JavaScript. It started as an assignment for a web development course and grew into a larger personal project as I kept adding to it.
 
-**Termii** is a passion project I have deeply enjoyed making, it started out as a simple Web Dev - 1 assignment yet I could not stop adding in more content. I hope you will enjoy what I poured my heart into.
+## Features
 
-### FEATURES
-* **Interactive Terminal:** Click on either; BIOS, BOOT, and or, SCREEN to access the Easter Eggs.
-* **Dynamic Content:** Modals for Articles and Socials without page reloads.
-* **Asset Preloading:** Optimized image handling for instant interactions.
+- Interactive terminal interface. Click BIOS, BOOT, or SCREEN to find the hidden Easter eggs.
+- Articles and social links open in modals, so the page never reloads.
+- Images are preloaded so interactions respond without delay.
 
----
+## Tech Stack
 
-### TECH_STACK
-| COMPONENT | TECHNOLOGY |
+| Component | Technology |
 | :--- | :--- |
-| **CORE** | HTML5 / CSS3 / Vanilla JS |
-| **FONTS** | Press Start 2P / Fira Code |
-| **STYLE** | CSS Grid / Flexbox / CRT FX |
-| **HOSTING** | GitHub Pages |
+| Core | HTML5, CSS3, vanilla JavaScript |
+| Fonts | Press Start 2P, Fira Code |
+| Layout and effects | CSS Grid, Flexbox, CSS-based CRT effects |
+| Hosting | GitHub Pages |
 
----
+## Getting Started
 
-### LOCAL_INSTALLATION
+No build step or dependencies are required.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/vuieee/Termii.git](https://github.com/vuieee/Termii.git)
+git clone https://github.com/vuieee/Termii.git
 
-# Navigate to directory
+# Move into the project folder
 cd Termii
 
 # Open index.html in your browser
-# (No build step required. It's raw, pure web.)
+```
+
+## License
+
+Released under the [MIT License](LICENSE).
