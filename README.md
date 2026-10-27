@@ -2,8 +2,6 @@
 
 # Termii
 
-A terminal-styled personal website with an anime and CRT aesthetic.
-
 <img src="assets/images/termiimainsection.png" width="100%" alt="Termii main section" />
 
 [![Status](https://img.shields.io/website?label=Site&url=https%3A%2F%2Fvuieee.github.io%2FTermii%2F)](https://vuieee.github.io/Termii/)
